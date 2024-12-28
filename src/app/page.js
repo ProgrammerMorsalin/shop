@@ -4,7 +4,7 @@ export default function Home() {
       className="h-screen w-screen bg-cover bg-center flex items-center justify-center"
       style={{ backgroundImage: "url('assets/alien.jpg')" }}
     >
-      <h1 className="text-8xl font-bold text-white">Site coming soon</h1>
+      <h1 className="text-50xl font-bold text-white">Site coming soon</h1>
     </div>
   );
 }
